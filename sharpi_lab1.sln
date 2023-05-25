@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharpi_lab1", "sharpi_lab1.csproj", "{D3712639-1308-464F-A5E4-E44432816BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3712639-1308-464F-A5E4-E44432816BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3712639-1308-464F-A5E4-E44432816BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3712639-1308-464F-A5E4-E44432816BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3712639-1308-464F-A5E4-E44432816BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7134615-263F-425D-AB19-B54D2D4E2F81}
+	EndGlobalSection
+EndGlobal
